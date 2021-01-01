@@ -1,3 +1,2 @@
-class Room < ApplicationRecord
-
+class Room < ApplicationRecord  
 end
